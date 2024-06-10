@@ -2,7 +2,7 @@
 
 This repository is for the Pluralsight course **[Authoring and Maintaining GitHub Actions](https://bit.ly/PSCustomGitHubActions)**. The license is Apache 2.0.
 
-[![Course overview screenshot]($COURSE_HERO_IMAGE$)](https://bit.ly/PSCustomGitHubActions)
+[![Course overview](https://github.com/kamranayub/pluralsight-course-authoring-maintaining-github-actions/assets/563819/d74cc006-5c2d-4e7b-aa52-072de2cb427e)](https://bit.ly/PSCustomGitHubActions)
 
 
 ## Table of Contents
