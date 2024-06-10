@@ -19,7 +19,13 @@ Please report course issues using the [Issues](issues) page or the Pluralsight d
 
 ## Updates
 
-- **$RELEASE_DATE$**
+- **August 2024**
   - Initial release 🎉
 
 ## Additional Resources
+
+### Tool Installation
+
+- **Windows Subsystem for Linux**: https://learn.microsoft.com/en-us/windows/wsl/about
+- **Docker for Desktop**: https://www.docker.com
+- **Node.js**: https://www.nodejs.org
