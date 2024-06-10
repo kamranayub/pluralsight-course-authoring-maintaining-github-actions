@@ -24,8 +24,13 @@ Please report course issues using the [Issues](issues) page or the Pluralsight d
 
 ## Additional Resources
 
+- [GitHub Actions Toolkit SDK](https://github.com/actions/toolkit)
+- [Microsoft Learn: GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
+- [GitHub Actions Exam Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/2mMJ6nECbUAdiQMTObbPw6/67cfbffa68fed774a1d280c6c1346635/github-actions-exam-preparation-study-guide__3_.pdf)
+- [Building a JavaScript Development Environment](https://bit.ly/PSJSDevEnvCourse)
+
 ### Tool Installation
 
-- **Windows Subsystem for Linux**: https://learn.microsoft.com/en-us/windows/wsl/about
-- **Docker for Desktop**: https://www.docker.com
-- **Node.js**: https://www.nodejs.org
+- [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about)
+- [Docker for Desktop](https://www.docker.com)
+- [Node.js](https://www.nodejs.org)
