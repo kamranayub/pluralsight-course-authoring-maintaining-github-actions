@@ -4,6 +4,11 @@ This repository is for the Pluralsight course **[Authoring and Maintaining GitHu
 
 [![Course overview](https://github.com/kamranayub/pluralsight-course-authoring-maintaining-github-actions/assets/563819/d74cc006-5c2d-4e7b-aa52-072de2cb427e)](https://bit.ly/PSCustomGitHubActions)
 
+## Follow Along
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kamranayub/pluralsight-course-authoring-maintaining-github-actions)
+
+You can follow along with the demos in the course on your own using the provided GitHub Codespace devcontainer. Everything is pre-configured for you, so you don't need to install anything on your local machine. All GitHub Free and Pro accounts have a [free monthly quota](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces) for Codespace usage. 
 
 ## Table of Contents
 
