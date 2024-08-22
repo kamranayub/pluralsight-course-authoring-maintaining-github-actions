@@ -3,24 +3,38 @@
 {
 	"name": "Docker in Docker",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:22-bookworm",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:20-bookworm",
 
 	"features": {
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {
-			"version": "latest",
+			"version": "27.0.3",
 			"enableNonRootDocker": "true",
 			"moby": "true"
+		},
+		"ghcr.io/devcontainers/features/dotnet:2": {
+			"version": "8.0"
 		}
-	}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "docker --version",
+	"postCreateCommand": {
+		"docker-version": "docker --version",
+		"node-version": "node -v",
+		"dotnet-version": "dotnet --info"
+	},
 
 	// Configure tool-specific properties.
 	// "customizations": {},
+
+	// Demo environment variables that need to be set to follow along.
+	"containerEnv": {
+		"GITHUB_TOKEN": "<create GitHub personal access token>",
+		"SLACK_TOKEN": "<create Slack OAuth token>",
+		"SLACK_BOT_TOKEN": "<create Slack OAuth bot token>"
+	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
