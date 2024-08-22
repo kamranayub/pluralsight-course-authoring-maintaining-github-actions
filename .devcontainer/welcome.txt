@@ -1,0 +1,5 @@
+👋 Welcome Pluralsight learner! Want to follow along the demos in the course?
+
+📢 You will need to set the following environment variables: GITHUB_TOKEN, SLACK_TOKEN, and SLACK_BOT_TOKEN.
+
+👉 Details for the expected values can be found here: https://github.com/kamranayub/pluralsight-authoring-github-actions-demo-action/blob/main/.github/CONTRIBUTING.md#environment-variables
