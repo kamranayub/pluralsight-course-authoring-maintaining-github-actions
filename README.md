@@ -8,7 +8,7 @@ This repository is for the Pluralsight course **[Authoring and Maintaining GitHu
 
 The final demo code (and all the work history) can be found in the [Demo Action Repository](https://github.com/kamranayub/pluralsight-authoring-github-actions-demo-action).
 
-Exercise files for the course can be found in the Pluralsight app but they are also reflected in the `m[2-5]/demo` branches in the action repository.
+Exercise files for the course can be found in the Pluralsight app but they are also reflected in the `m[3-5]/demo` branches in the action repository.
 
 ## Follow Along
 
