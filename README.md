@@ -4,6 +4,12 @@ This repository is for the Pluralsight course **[Authoring and Maintaining GitHu
 
 [![Course overview](https://github.com/kamranayub/pluralsight-course-authoring-maintaining-github-actions/assets/563819/d74cc006-5c2d-4e7b-aa52-072de2cb427e)](https://bit.ly/PSCustomGitHubActions)
 
+## Demo Action Repository
+
+The final demo code (and all the work history) can be found in the [Demo Action Repository](https://github.com/kamranayub/pluralsight-authoring-github-actions-demo-action).
+
+Exercise files for the course can be found in the Pluralsight app but they are also reflected in the `m[2-5]/demo` branches in the action repository.
+
 ## Follow Along
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kamranayub/pluralsight-course-authoring-maintaining-github-actions)
